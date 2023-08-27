@@ -5,7 +5,7 @@
     "description": "Sunrise Product Data Set Structure",
     "attributes": [
       {
-        "name": "commonSize",
+        "name": "size",
         "label": {
           "en": "Filtersize"
         },
@@ -213,20 +213,6 @@
         "displayGroup": "Other"
       },
       {
-        "name": "size",
-        "label": {
-          "en": "Size"
-        },
-        "isRequired": false,
-        "type": {
-          "name": "text"
-        },
-        "attributeConstraint": "None",
-        "isSearchable": true,
-        "inputHint": "SingleLine",
-        "displayGroup": "Other"
-      },
-      {
         "name": "baseId",
         "label": {
           "en": "BaseID"
@@ -355,6 +341,52 @@
               "key": "multicolored",
               "label": {
                 "en": "multicolored"
+              }
+            }
+          ]
+        },
+        "attributeConstraint": "None",
+        "isSearchable": true,
+        "inputHint": "SingleLine",
+        "displayGroup": "Other"
+      },
+      {
+        "name": "material",
+        "label": {
+          "en": "Filtermaterial"
+        },
+        "isRequired": false,
+        "type": {
+          "name": "lenum",
+          "values": [
+            {
+              "key": "cotton",
+              "label": {
+                "en": "cotton"
+              }
+            },
+            {
+              "key": "polyester",
+              "label": {
+                "en": "polyester"
+              }
+            },
+            {
+              "key": "wool",
+              "label": {
+                "en": "wool"
+              }
+            },
+            {
+              "key": "bamboo",
+              "label": {
+                "en": "bamboo"
+              }
+            },
+            {
+              "key": "linen",
+              "label": {
+                "en": "linen"
               }
             }
           ]

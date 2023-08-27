@@ -1,4 +1,19 @@
-productType,variantId,sku,prices,categories,baseId,images,name.en,description.en,slug.en,metaTitle.en,metaDescription.en,metaKeywords.en
-main,1,M0E20000000E1AZ,US-USD 15000,Sports>Balls,71560,https://s3-eu-west-1.amazonaws.com/commercetools-maximilian/products/079560_1_large.jpg,Sneakers New Balance multi,,newbalance-sneakers-MT980BB-multi,,,
-main,1,M0E20000000E1B0,US-USD 15000,Sports>Skating,71561,https://s3-eu-west-1.amazonaws.com/commercetools-maximilian/products/079560_1_large.jpg,test Name,testDesc,test-slug,testMetaTitle,testMDesc,testMKeywords
-,2,M0E20000000E1B1,US-USD 15000,,71561,https://s3-eu-west-1.amazonaws.com/commercetools-maximilian/products/079560_1_large.jpg,,,,,,
+productType,variantId,sku,prices,categories,baseId,images,name.en,description.en,slug.en,metaTitle.en,metaDescription.en,metaKeywords.en,size,color,material
+main,1,CLOM0000,US-USD 1400,Clothes and shoes>Man,10000,https://raw.githubusercontent.com/michaelsmorgon/eCommerce-images/master/clothing-and-shoes/man/10000/brand.jpg,1791 Jr Big Star slippers,"Big Star 1791 flip-flops are footwear suitable for warm and sunny days, which are dedicated to children and teenagers",1791-jr-big-star-slippers,,,,,
+,2,CLOM0001,US-USD 1400,Clothing and shoes>Man,10000,https://raw.githubusercontent.com/michaelsmorgon/eCommerce-images/master/clothing-and-shoes/man/10000/white.jpg,,,,,,,42,white,
+,3,CLOM0002,US-USD 1400,Clothing and shoes>Man,10000,https://raw.githubusercontent.com/michaelsmorgon/eCommerce-images/master/clothing-and-shoes/man/10000/white2.jpg,,,,,,,41,white,
+,4,CLOM0003,US-USD 1400,Clothing and shoes>Man,10000,https://raw.githubusercontent.com/michaelsmorgon/eCommerce-images/master/clothing-and-shoes/man/10000/white3.jpg,,,,,,,40,white,
+,5,CLOM0004,US-USD 1400,Clothing and shoes>Man,10000,https://raw.githubusercontent.com/michaelsmorgon/eCommerce-images/master/clothing-and-shoes/man/10000/red.jpg,,,,,,,42,red,
+,6,CLOM0005,US-USD 1400,Clothing and shoes>Man,10000,https://raw.githubusercontent.com/michaelsmorgon/eCommerce-images/master/clothing-and-shoes/man/10000/red.jpg,,,,,,,41,red,
+,7,CLOM0006,US-USD 1400,Clothing and shoes>Man,10000,https://raw.githubusercontent.com/michaelsmorgon/eCommerce-images/master/clothing-and-shoes/man/10000/red.jpg,,,,,,,40,red,
+,8,CLOM0007,US-USD 1400,Clothing and shoes>Man,10000,https://raw.githubusercontent.com/michaelsmorgon/eCommerce-images/master/clothing-and-shoes/man/10000/black.jpg,,,,,,,42,black,
+,9,CLOM0008,US-USD 1400,Clothing and shoes>Man,10000,https://raw.githubusercontent.com/michaelsmorgon/eCommerce-images/master/clothing-and-shoes/man/10000/black2.jpg,,,,,,,41,black,
+main,1,CLOM0100,US-USD 1200,Clothes and shoes>Man,10001,https://raw.githubusercontent.com/michaelsmorgon/eCommerce-images/master/clothing-and-shoes/man/10001/black.jpg,Essentials T-shirt,"This shirt should not be missing in your child's wardrobe - a shirt certainly for the original youth",essentials-t-shirt,,,,,
+,3,CLOM0102,US-USD 1200,Clothing and shoes>Man,10001,https://raw.githubusercontent.com/michaelsmorgon/eCommerce-images/master/clothing-and-shoes/man/10001/black.jpg,,,,,,,s,black,polyester
+,4,CLOM0103,US-USD 1200,Clothing and shoes>Man,10001,https://raw.githubusercontent.com/michaelsmorgon/eCommerce-images/master/clothing-and-shoes/man/10001/ogange.jpg,,,,,,,s,orange,polyester
+,2,CLOM0101,US-USD 1200,Clothing and shoes>Man,10001,https://raw.githubusercontent.com/michaelsmorgon/eCommerce-images/master/clothing-and-shoes/man/10001/black.jpg,,,,,,,xl,black,polyester
+,5,CLOM0104,US-USD 1200,Clothing and shoes>Man,10001,https://raw.githubusercontent.com/michaelsmorgon/eCommerce-images/master/clothing-and-shoes/man/10001/ogange.jpg,,,,,,,m,orange,polyester
+,6,CLOM0105,US-USD 1200,Clothing and shoes>Man,10001,https://raw.githubusercontent.com/michaelsmorgon/eCommerce-images/master/clothing-and-shoes/man/10001/white.jpg,,,,,,,s,white,polyester
+,7,CLOM0106,US-USD 1200,Clothing and shoes>Man,10001,https://raw.githubusercontent.com/michaelsmorgon/eCommerce-images/master/clothing-and-shoes/man/10001/white.jpg,,,,,,,m,white,polyester
+,8,CLOM0107,US-USD 1200,Clothing and shoes>Man,10001,https://raw.githubusercontent.com/michaelsmorgon/eCommerce-images/master/clothing-and-shoes/man/10001/yellow.jpg,,,,,,,xl,yellow,polyester
+,9,CLOM0108,US-USD 1200,Clothing and shoes>Man,10001,https://raw.githubusercontent.com/michaelsmorgon/eCommerce-images/master/clothing-and-shoes/man/10001/yellow.jpg,,,,,,,s,yellow,polyester
