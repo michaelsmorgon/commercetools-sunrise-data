@@ -48,11 +48,11 @@
     },
     {
         "customerNumber": "2",
-        "email": "john.doe2@example.com",
+        "email": "a@a.a",
         "firstName": "John",
         "lastName": "Doe",
         "title": "Mr.",
-        "password": "pAssword1",
+        "password": "1234567aA",
         "addresses": [
             {
                 "id": "a-qURQXR",
