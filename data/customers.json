@@ -1,11 +1,11 @@
 [
     {
         "customerNumber": "1",
-        "email": "jane.doe@example.com",
+        "email": "jane.doe1@example.com",
         "firstName": "Jane",
         "lastName": "Doe",
         "title": "Mrs",
-        "password": "p@ssword",
+        "password": "pAssword1",
         "addresses": [
             {
                 "id": "PPM3YhMK",
@@ -48,11 +48,11 @@
     },
     {
         "customerNumber": "2",
-        "email": "john.doe@example.com",
+        "email": "john.doe2@example.com",
         "firstName": "John",
         "lastName": "Doe",
         "title": "Mr.",
-        "password": "p@ssword",
+        "password": "pAssword1",
         "addresses": [
             {
                 "id": "a-qURQXR",
