@@ -430,6 +430,12 @@
               "label": {
                 "en": "aluminum"
               }
+            },
+            {
+              "key": "polycarbonate",
+              "label": {
+                "en": "polycarbonate"
+              }
             }
           ]
         },
