@@ -354,6 +354,18 @@
               "label": {
                 "en": "multicolored"
               }
+            },
+            {
+              "key": "black-red",
+              "label": {
+                "en": "black-red"
+              }
+            },
+            {
+              "key": "black-yellow",
+              "label": {
+                "en": "black-yellow"
+              }
             }
           ]
         },
@@ -405,6 +417,18 @@
               "key": "plastic",
               "label": {
                 "en": "plastic"
+              }
+            },
+            {
+              "key": "carbon",
+              "label": {
+                "en": "carbon"
+              }
+            },
+            {
+              "key": "aluminum",
+              "label": {
+                "en": "aluminum"
               }
             }
           ]
