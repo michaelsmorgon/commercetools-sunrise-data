@@ -366,6 +366,12 @@
               "label": {
                 "en": "black-yellow"
               }
+            },
+            {
+              "key": "gold-black",
+              "label": {
+                "en": "gold-black"
+              }
             }
           ]
         },
