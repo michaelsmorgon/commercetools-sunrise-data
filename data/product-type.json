@@ -400,6 +400,12 @@
               "label": {
                 "en": "linen"
               }
+            },
+            {
+              "key": "plastic",
+              "label": {
+                "en": "plastic"
+              }
             }
           ]
         },
