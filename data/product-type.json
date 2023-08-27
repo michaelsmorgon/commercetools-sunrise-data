@@ -308,6 +308,18 @@
               }
             },
             {
+              "key": "cyan",
+              "label": {
+                "en": "cyan"
+              }
+            },
+            {
+              "key": "navy-blue",
+              "label": {
+                "en": "navy-blue"
+              }
+            },
+            {
               "key": "orange",
               "label": {
                 "en": "orange"
