@@ -449,6 +449,42 @@
         "isSearchable": true,
         "inputHint": "SingleLine",
         "displayGroup": "Other"
+      },
+      {
+        "name": "discount",
+        "label": {
+          "en": "Discount"
+        },
+        "isRequired": false,
+        "type": {
+          "name": "enum",
+          "values": [
+            {
+              "key": "low",
+              "label": "10%"
+            },
+            {
+              "key": "middle",
+              "label": "20%"
+            },
+            {
+              "key": "max",
+              "label": "30%"
+            },
+            {
+              "key": "super",
+              "label": "50%"
+            },
+            {
+              "key": "top",
+              "label": "70%"
+            }
+          ]
+        },
+        "attributeConstraint": "None",
+        "isSearchable": true,
+        "inputHint": "SingleLine",
+        "displayGroup": "Other"
       }
     ]
   }
