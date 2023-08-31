@@ -222,7 +222,7 @@
           "name": "text"
         },
         "attributeConstraint": "None",
-        "isSearchable": true,
+        "isSearchable": false,
         "inputHint": "SingleLine",
         "displayGroup": "Other"
       },
@@ -482,7 +482,7 @@
           ]
         },
         "attributeConstraint": "None",
-        "isSearchable": true,
+        "isSearchable": false,
         "inputHint": "SingleLine",
         "displayGroup": "Other"
       }
