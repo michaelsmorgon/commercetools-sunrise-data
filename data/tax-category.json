@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "standard",
+    "key": "standard",
+    "rates": [
+      {
+        "name": "10% incl.",
+        "amount": 0.1,
+        "includedInPrice": true,
+        "country": "US"
+      }
+    ]
+  }
+]
